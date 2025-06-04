@@ -1,11 +1,10 @@
-# 🚀 Dashboard Deployment on Render
+<div align="center">
+  <h1>Guillermo Ibanez | 🚀Dashboard Deployment on Render</h1>
+  <h1><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="700" height="150"></h1>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Platform-Render-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/Deployment-Free%20Tier-orange" alt="Deployment">
-</p>
 
+<br>
 ---
 
 ## 📋 Summary
