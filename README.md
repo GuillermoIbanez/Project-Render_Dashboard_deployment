@@ -15,6 +15,8 @@
 
 <p>
   This project demonstrates the complete process of taking a locally-developed dashboard and deploying it as a live web application. The focus is on the deployment methodology, troubleshooting common issues, and achieving a working public URL without any hosting costs.
+</p>
+<p>
 For details on the Python code and the data set used please visit the Dashboard Project Repository <a href="https://github.com/GuillermoIbanez/Project-Dashboards/tree/main">Clicking here</a>.
 </p>
 
