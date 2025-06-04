@@ -99,7 +99,7 @@
   <h3>🎯 Live Demo</h3>
   <p>Click this link to check out the dashboard on your web browser:</p>
   <br>
-  <a href="http://18.196.82.106:8000/" target="_blank">
+  <a href="https://project-dashboards-2.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20View%20Live%20Dashboard-Visit%20Now-brightgreen?style=for-the-badge" alt="Live Dashboard">
   </a>
   <br><br>
