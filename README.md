@@ -62,60 +62,35 @@
 
 ## 📝 Methodology
 
-<details>
-<summary><strong>🔧 Step 1: Repository Setup</strong></summary>
-<br>
-<ul>
-  <li>📁 Created GitHub repository with dashboard code</li>
-  <li>📄 Converted Jupyter notebook (.ipynb) to Python script (.py)</li>
-  <li>📊 Uploaded Excel data file to repository</li>
-  <li>🔗 Updated file paths for deployment environment</li>
-</ul>
-</details>
+### **🔧 Step 1: Repository Setup**
+- 📁 Created GitHub repository with dashboard code
+- 📄 Converted Jupyter notebook (.ipynb) to Python script (.py)
+- 📊 Uploaded Excel data file to repository
+- 🔗 Updated file paths for deployment environment
 
-<details>
-<summary><strong>📦 Step 2: Dependencies Configuration</strong></summary>
-<br>
-<ul>
-  <li>📋 Created <code>requirements.txt</code> file</li>
-  <li>🔧 Specified exact package versions for compatibility</li>
-  <li>⚠️ Resolved numpy/pandas version conflicts</li>
-  <li>📚 Added missing Excel reading libraries (xlrd)</li>
-</ul>
-</details>
+### **📦 Step 2: Dependencies Configuration**
+- 📋 Created `requirements.txt` file
+- 🔧 Specified exact package versions for compatibility
+- ⚠️ Resolved numpy/pandas version conflicts
+- 📚 Added missing Excel reading libraries (xlrd)
 
-<details>
-<summary><strong>🌐 Step 3: Render Platform Setup</strong></summary>
-<br>
-<ul>
-  <li>🔗 Connected GitHub repository to Render</li>
-  <li>⚙️ Configured build and start commands</li>
-  <li>🐍 Set Python environment detection</li>
-  <li>🔄 Enabled automatic deployments on git push</li>
-</ul>
-</details>
+### **🌐 Step 3: Render Platform Setup**
+- 🔗 Connected GitHub repository to Render
+- ⚙️ Configured build and start commands
+- 🐍 Set Python environment detection
+- 🔄 Enabled automatic deployments on git push
 
-<details>
-<summary><strong>🐛 Step 4: Troubleshooting & Fixes</strong></summary>
-<br>
-<ul>
-  <li>🔍 <strong>Server Import Error:</strong> Fixed gunicorn app:server reference</li>
-  <li>🌐 <strong>Port Binding Issue:</strong> Updated host configuration to 0.0.0.0</li>
-  <li>📊 <strong>Data Loading Problem:</strong> Resolved Excel file path and dependencies</li>
-  <li>⏱️ <strong>Cold Start Optimization:</strong> Understood free tier limitations</li>
-</ul>
-</details>
+### **🐛 Step 4: Troubleshooting & Fixes**
+- 🔍 **Server Import Error:** Fixed gunicorn app:server reference
+- 🌐 **Port Binding Issue:** Updated host configuration to 0.0.0.0
+- 📊 **Data Loading Problem:** Resolved Excel file path and dependencies
+- ⏱️ **Cold Start Optimization:** Understood free tier limitations
 
-<details>
-<summary><strong>✅ Step 5: Deployment Success</strong></summary>
-<br>
-<ul>
-  <li>🎉 Achieved successful build and deployment</li>
-  <li>🔗 Generated public URL for dashboard access</li>
-  <li>🧪 Tested functionality and data visualization</li>
-  <li>📱 Verified cross-device compatibility</li>
-</ul>
-</details>
+### **✅ Step 5: Deployment Success**
+- 🎉 Achieved successful build and deployment
+- 🔗 Generated public URL for dashboard access
+- 🧪 Tested functionality and data visualization
+- 📱 Verified cross-device compatibility
 
 ---
 
