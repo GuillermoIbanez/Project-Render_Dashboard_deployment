@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Guillermo Ibanez | 🚀Dashboard Deployment on Render</h1>
+  <h1>Guillermo Ibanez | 🚀 Dashboard Deployment on Render</h1>
   <h1><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="700" height="150"></h1>
 </div>
 
@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/🚀%20View%20Live%20Dashboard-Visit%20Now-brightgreen?style=for-the-badge" alt="Live Dashboard">
   </a>
   <br><br>
-  <p><em>⏳ Note: First load may take 1-2 minutes due to free tier cold start</em></p>
+  <p><em>⏳ Note: First load may take 1-2 minutes due to free tier cold start. For a more reliable deployment check out the AWS deployment I did <a href="https://github.com/GuillermoIbanez/Project-AWS_Dashboard_Deployment" target="_blank">here</a>.</em></p>
 </div>
 
 ---
